@@ -1,3 +1,7 @@
 Ide jön majd az új branch 
 ezt meg már valaki módisította
+<<<<<<< HEAD
 3. sor, amit én csináltam
+=======
+3. sor amit más csinált!
+>>>>>>> 40bb8c8fa88354e6953545018a2add75cf083019
